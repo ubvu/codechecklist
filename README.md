@@ -6,8 +6,7 @@ The FAIR principles originated in data management, but are as significant when w
 
 💡 To simplify your task, we created a checklist with easy-to-follow instructions that guide you through the process of making your code more FAIR. 💡
 
-<embed src="flyer_RSM.pdf" width="500" height="375" 
- type="application/pdf">
+[<img alt="alt_text" width="400px" src="Flyer_RSM.png" />](Flyer_RSM.pdf)
 
 # Contributions
 🎉 This project is still in development, and we’d love your feedback! Feel free to share your thoughts via the issue tracker or by commenting on the checklist. 🎉
