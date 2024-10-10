@@ -14,4 +14,4 @@ The FAIR principles originated in data management, but are as significant when w
 # License
 The FAIR CODE Checklist is published under the [CC-BY license](LICENSE).
 
-This checklist builds upon https://utrechtuniversity.github.io/FAIR-Cheatsheets/ and https://fair-software.eu/
+This checklist builds upon Utrecht University's [cheatsheet](https://utrechtuniversity.github.io/FAIR-Cheatsheets/) and https://fair-software.eu/
