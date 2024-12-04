@@ -10,7 +10,7 @@ The FAIR principles originated in data management, but are as significant when w
 
 [Planning ahead](https://vu.nl/en/research/portal/research-impact-support-portal/incorporate-your-software-management-plan) helps to improve and structure the code you produce and share.
 
-Therefore our catchphrase is: **SPAGHETTI CODE? TRY FAIR LASAGNE**. 🍝
+Therefore our catchphrase is: **SPAGHETTI CODE? TRY FAIR LASAGNA**. 🍝
 
 [<img alt="alt_text" width="400px" src="Flyer_RSM.png" />](Flyer_RSM.pdf)
 
