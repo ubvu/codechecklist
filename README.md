@@ -6,6 +6,12 @@ The FAIR principles originated in data management, but are as significant when w
 
 💡 To simplify your task, we created a checklist with easy-to-follow instructions that guide you through the process of making your code more FAIR. 💡
 
+🍝 Spaghetti code is a disorganized, tangled, and difficult-to-follow programming structure that hinders reproducibility during and after research by making it challenging to debug, interpret, or extend.
+
+[Planning ahead](https://vu.nl/en/research/portal/research-impact-support-portal/incorporate-your-software-management-plan) helps to improve and structure the code you produce and share.
+
+Therefore our catchphrase is: **SPAGHETTI CODE? TRY FAIR LASAGNE**. 🍝
+
 [<img alt="alt_text" width="400px" src="Flyer_RSM.png" />](Flyer_RSM.pdf)
 
 # Contributions
